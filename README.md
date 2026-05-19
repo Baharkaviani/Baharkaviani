@@ -1,5 +1,7 @@
 ## Hi, I'm Bahar 👋
 
+<img align="right" width="130" style="border-radius: 50%; margin-left: 16px;" src="./BaharAvatar.jpg" alt="Bahar Kaviani" />
+
 Computer Engineering graduate (Amirkabir University of Technology) with 3+ years of industry experience in blockchain development and DevOps. I'm currently researching AI-assisted scam detection in Solidity smart contracts at [VAISR Research Group](https://vaisr.ir/), focusing on rugpull vulnerability analysis. I'm based in Toronto, Canada, and actively seeking M.Sc. opportunities in distributed systems and blockchain.
 
 ---
