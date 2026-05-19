@@ -28,8 +28,9 @@ Collaborating on a paper led by [Mohammad Pishdar](https://scholar.google.com/ci
 
 ---
 
-### Notable Projects
+### Projects & Work
 
+- **Polaris BaaS Platform** — Contributed to a Blockchain-as-a-Service product: backend development, Docker-based deployments, and scalable infrastructure. `Django · Docker · DevOps`
 - **Mercury — Solana Network Indexer** — Development of a custom Solana blockchain indexer offered as a BaaS service. `Solana · Django`
 - **[Smart Metering Gateway](https://github.com/Baharkaviani/Central_gateway_for_Smart_metering_system)** — IoT-to-cloud central communication gateway for building energy management. Undergrad thesis graded 19.75/20. `C · C++ · MQTT · Django · ESP32 · Docker`
 - **[pubsubclient](https://github.com/Baharkaviani/pubsubclient)** — Extended the Arduino MQTT client library to support ESP32 alongside ESP8266. `C · C++ · IoT`
